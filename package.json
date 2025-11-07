@@ -4,7 +4,8 @@
   "description": "Bu repo, Lovable tabanlı *Vardiya Flow* projesi için yazılmış E2E test senaryolarını içerir.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run",
+    "cy:open": "cypress open"
   },
   "keywords": [],
   "author": "",
