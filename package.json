@@ -1,0 +1,15 @@
+{
+  "name": "vardiya-flow-tests",
+  "version": "1.0.0",
+  "description": "Bu repo, Lovable tabanlı *Vardiya Flow* projesi için yazılmış E2E test senaryolarını içerir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  }
+}
